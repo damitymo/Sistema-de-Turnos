@@ -9,6 +9,9 @@
     "esModuleInterop": true,
     "moduleResolution": "node",
 
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+
     "strict": true,
 
     "types": ["node", "express"],
